@@ -1,4 +1,4 @@
-package org.example.analisismeta3;
+package org.example.analisismeta3.events;
 
 import java.util.Collections;
 import java.util.List;

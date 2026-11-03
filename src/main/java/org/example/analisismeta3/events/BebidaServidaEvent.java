@@ -1,4 +1,4 @@
-package org.example.analisismeta3;
+package org.example.analisismeta3.events;
 
 public class BebidaServidaEvent implements Evento {
     private final String mesaId;

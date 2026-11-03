@@ -1,4 +1,4 @@
-package org.example.analisismeta3;
+package org.example.analisismeta3.eventbus;
 
 import java.util.ArrayList;
 import java.util.HashMap;

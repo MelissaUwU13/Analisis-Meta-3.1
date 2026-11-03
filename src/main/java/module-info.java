@@ -13,4 +13,10 @@ module org.example.analisismeta3 {
 
     opens org.example.analisismeta3 to javafx.fxml;
     exports org.example.analisismeta3;
+    exports org.example.analisismeta3.events;
+    opens org.example.analisismeta3.events to javafx.fxml;
+    exports org.example.analisismeta3.eventbus;
+    opens org.example.analisismeta3.eventbus to javafx.fxml;
+    exports org.example.analisismeta3.components;
+    opens org.example.analisismeta3.components to javafx.fxml;
 }
